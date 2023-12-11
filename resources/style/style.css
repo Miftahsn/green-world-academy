@@ -1,0 +1,17 @@
+.home{
+    background-image: url("../img/alam-bg.webp");
+    background-size: cover;
+}
+
+/* .btn-primary {
+    @apply px-7 py-2 bg-brown text-dark rounded hover:text-white hover-bg-dark transition-all duration-300 hover:-translate-y-4;
+} */
+
+.background-container {
+    background-image: url("/path/to/your/image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;  */
+  }
+  
